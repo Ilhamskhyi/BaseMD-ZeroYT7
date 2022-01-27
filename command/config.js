@@ -15,11 +15,11 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'Zero YT7'
-global.owner = ['6285157740529']
-global.packname = 'Zero YT7'
-global.author = 'Zero YT7'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.ownername = 'catzy bot-md'
+global.owner = ['687710621']
+global.packname = 'catzy bot-md'
+global.author = 'catzy bot-md'
+global.prefa = ['','!','.','🐦','🐤','🐣']
 global.sp = '⭔'
 global.mess = {
 admin: 'Fitur Khusus Admin Group!',
